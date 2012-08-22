@@ -1,0 +1,254 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bones-responsive\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-05-22 11:57+0100\n"
+"PO-Revision-Date: 2012-05-22 11:59+0100\n"
+"Last-Translator: eloy pineda <pro@eloypineda.es>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SearchPath-0: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive\n"
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:11
+msgid "Posts Categorized:"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:15
+msgid "Posts Tagged:"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:19
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/author.php:10
+msgid "Posts By:"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:23
+msgid "Daily Archives:"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:27
+msgid "Monthly Archives:"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:31
+msgid "Yearly Archives:"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:43
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/author.php:29
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/index.php:19
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/page-custom.php:23
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/page.php:17
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/search.php:19
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/single-custom_type.php:32
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/single.php:17
+msgid "Posted"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:43
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/author.php:29
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/index.php:19
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/page-custom.php:23
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/page.php:17
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/search.php:19
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/single-custom_type.php:32
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/single.php:17
+msgid "by"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:43
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/author.php:29
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/index.php:19
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/search.php:19
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/single-custom_type.php:32
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/single.php:17
+msgid "filed under"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:70
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/author.php:56
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/index.php:48
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/search.php:44
+msgid "&laquo; Older Entries"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:71
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/author.php:57
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/index.php:49
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/search.php:45
+msgid "Newer Entries &raquo;"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:81
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/author.php:67
+msgid "No Posts Yet"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/archive.php:84
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/author.php:70
+msgid "Sorry, What you were looking for is not here."
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/footer.php:9
+msgid "is powered by"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/functions.php:93
+#, php-format
+msgid "<cite class=\"fn\">%s</cite>"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/functions.php:94
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/functions.php:95
+msgid "(Edit)"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/functions.php:99
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/functions.php:116
+msgid "Search for:"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/index.php:24
+msgid "<span class=\"read-more\">Read more on \""
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:24
+msgid "Custom Types"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:25
+msgid "Custom Post"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:26
+msgid "Add New"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:27
+msgid "Add New Custom Type"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:28
+msgid "Edit"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:29
+msgid "Edit Post Types"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:30
+msgid "New Post Type"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:31
+msgid "View Post Type"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:32
+msgid "Search Post Type"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:33
+msgid "Nothing found in the Database."
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:34
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:37
+msgid "This is the example custom post type"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:73
+msgid "Custom Categories"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:74
+msgid "Custom Category"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:75
+msgid "Search Custom Categories"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:76
+msgid "All Custom Categories"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:77
+msgid "Parent Custom Category"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:78
+msgid "Parent Custom Category:"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:79
+msgid "Edit Custom Category"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:80
+msgid "Update Custom Category"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:81
+msgid "Add New Custom Category"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:82
+msgid "New Custom Category Name"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:94
+msgid "Custom Tags"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:95
+msgid "Custom Tag"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:96
+msgid "Search Custom Tags"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:97
+msgid "All Custom Tags"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:98
+msgid "Parent Custom Tag"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:99
+msgid "Parent Custom Tag:"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:100
+msgid "Edit Custom Tag"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:101
+msgid "Update Custom Tag"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:102
+msgid "Add New Custom Tag"
+msgstr ""
+
+#: /Users/eloypineda/Dropbox/workspace/www/utrerasuena/wp-content/themes/bones-responsive/library/custom-post-type.php:103
+msgid "New Custom Tag Name"
+msgstr ""
+
