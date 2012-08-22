@@ -1,0 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500,700);
+body { font: .75em Arial, sans-serif; background-color: #EEE; background-image: url(../images/header_bg.png); background-repeat: repeat-x; }
+textarea { font: 1em Arial, sans-serif; }
+/* general classes */
+.bold { font-weight: bold; }
+.nodisplay { display: none; }
+.fleft { float: left; }
+.fright { float: right; }
+.fclear { clear: both; }
+.clearfix:after { clear: both; content: " "; display: block; font-size: 0; height: 0; line-height: 0; visibility: hidden; width: 0; }
+.fade { opacity: 1; transition: opacity .25s ease-in-out; -moz-transition: opacity .25s ease-in-out; -webkit-transition: opacity .25s ease-in-out; }
+.fade:hover { opacity: 0.5; }
+
+/* layout */
+#container { margin: 0 auto; width: 960px; padding:0 20px 0px 20px; background-color:#fff; background-image: url(../images/header_bg2.png); background-repeat: repeat-x; overflow:hidden; }
+#contenido { background-color:#fff;margin: 0 auto; width: 960px; overflow:hidden;}
+
+/* header */
+#header { background-color:#fff; background-image: url(../images/header_bg2.png); background-repeat: repeat-x; height:208px; padding-bottom:20px; }
+#logo{ float:left; display:block; width:auto; height:120px; padding-top:15px; }
+#regreso{ height:93px; line-height:15px; float:right; display:block; padding-top:15px; font-size:0.9em; color:#999;}
+#regreso a{ text-decoration:none; color:#999;}
+#social{ height:40px; line-height:15px; float:right; display:block; font-size:0.9em; color:#999; clear:right;}
+#social img { margin:0px; vertical-align:middle; }
+
+/* navigation */
+#nav { height: 60px; float:left; width:960px; font-family: 'Ubuntu', sans-serif; font-weight:700; font-size:18px; letter-spacing:-1px; }
+#nav ul { float:left; padding-top:20px; }
+#nav li { float:left; display: inline; margin-left:4px; }
+#nav li a { color: #fff; float: left; display: block; height: 24px; padding: 8px 10px; text-decoration: none; background-color: #b3b3b3; -moz-border-radius: 4px 4px 0px 0px; border-radius: 4px 4px 0px 0px; opacity: 0.7; transition: opacity 0.55s ease-in-out; -moz-transition: opacity 0.55s ease-in-out; -webkit-transition: opacity 0.55s ease-in-out; }
+#nav li a:hover { color: #4D4D4D; background-color:#fff; opacity: 1; }
+#nav li.current a { color: #4D4D4D; background-color:#fff; }
+
+/* content */
+#slide{float:left; display:block; margin-bottom:15px; overflow;}
+
+#seccion1 {width: 468px; float:left; display:block; overflow:hidden; margin-bottom:20px;}
+#seccion1 h1 { font-size: 2.5em; font-family: 'Ubuntu', sans-serif; font-weight:400; color:#333333; letter-spacing:-1px; line-height:1em; margin-bottom:15px; }
+#seccion1 h1 a { color: #333333; text-decoration: none; opacity: 1; transition: opacity .25s ease-in-out; -moz-transition: opacity .25s ease-in-out; -webkit-transition: opacity .25s ease-in-out; }
+#seccion1 h1 a:hover { color: #4D4D4D; opacity: 0.5; }
+
+#seccion2 {width: 234px; float:left; display:block; margin: 0 0 0 12px; overflow:hidden;margin-bottom:20px;}
+#seccion2 h1 { font-size: 2.5em; font-family: 'Ubuntu', sans-serif; font-weight:400; color:#333333; letter-spacing:-1px; line-height:1em; margin-bottom:15px; }
+#seccion2 h1 a { color: #333333; text-decoration: none; opacity: 1; transition: opacity .25s ease-in-out; -moz-transition: opacity .25s ease-in-out; -webkit-transition: opacity .25s ease-in-out; }
+#seccion2 h1 a:hover { color: #4D4D4D; opacity: 0.5; }
+
+#seccion3 {width: 234px; float:left; display:block; margin: 0 0 0 12px; overflow:hidden;margin-bottom:20px;}
+#seccion3 h1 { font-size: 2.5em; font-family: 'Ubuntu', sans-serif; font-weight:400; color:#333333; letter-spacing:-1px; line-height:1em; margin-bottom:15px; }
+#seccion3 h1 a { color: #333333; text-decoration: none; opacity: 1; transition: opacity .25s ease-in-out; -moz-transition: opacity .25s ease-in-out; -webkit-transition: opacity .25s ease-in-out; }
+#seccion3 h1 a:hover { color: #4D4D4D; opacity: 0.5; }
+
+#seccion3 .bizdata { border: thin solid #999999; -moz-border-radius: 4px; border-radius: 4px; padding: 8px; height: 216px; color: #000000; background-color: #EEEEEE; font-size: 1.2em; }
+
+/* footer */
+#footer { margin: 0px auto 0px auto; background-color: #BEBEBE; padding: 0 20px 0 20px; height: 60px; overflow:hidden; }
+#footer .container {  margin: 0 auto; padding: 10px auto; overflow: hidden; width: 960px; }
+#footer p { color: #603; height:60px; }
+#footer .logotipo { float:left; display:block; width:105px; padding-right:25px; padding-top:10px; ; height:50px; }
+#footer .nav { float:left; display:block; width:655px; color: #4D4D4D; padding:30px 0 0 0; height:30px; }
+#footer .nav p a { color: #fff; font-size:1.1em; margin-right:12px; text-decoration:none; font-family: 'Ubuntu', sans-serif; font-weight:700; letter-spacing:-1px; }
+#footer .nav p a:hover { color: #4D4D4D; }
+#footer .sociales { color: #fff; float:right; display:block; width:175px; padding-top:14px; height:46px; }
+#footer .icon a { margin: 0px 4px 0px 0px; }
+#footer .legals a { color: #fff; text-decoration: none; }

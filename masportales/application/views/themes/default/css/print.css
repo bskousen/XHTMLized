@@ -1,0 +1,49 @@
+body {
+	font: .75em Arial, sans-serif;
+}
+b {
+	font-weight: bold;
+}
+.header .brand {
+	background: #c39;
+	height: 94px;
+}
+.content {
+	margin: 12px;
+}
+.content .header h1 {
+	font-size: 2em;
+	font-weight: bold;
+} 
+.content .item-content {
+	margin: 24px 0;
+	overflow: hidden;
+}
+.content .item-content img {
+	float: right;
+	margin: 0 0 12px 12px
+}
+.content .item-content p {
+	margin: 12px 0;
+}
+.comments {
+	border-top: 2px solid #c39;
+}
+.comments h2 {
+	font-size: 1.8em;
+	font-weight: bold;
+}
+.comment {
+	border: 1px solid #ccc;
+	margin: 12px 0;
+	padding: 12px;
+}
+.comment-header {
+	border-bottom: 1px dashed #ccc;
+	margin: 0 0 6px 0;
+}
+.footer {
+	background: #c39;
+	color: #fff;
+	padding: 12px;
+}

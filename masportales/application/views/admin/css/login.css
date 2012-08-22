@@ -1,0 +1,73 @@
+@import url(http://fonts.googleapis.com/css?family=Fredoka+One);
+
+html {
+	font-family: Helvetica, Arial, sans-serif;
+}
+body {
+	background: #fde;
+	color: #725;
+}
+.logo {
+	padding: 48px 0;
+	text-align: center;
+}
+label {
+	color: #725;
+	display: block;
+	font-size: .9em;
+	font-weight: bold;
+	margin: 12px 0 3px 0;
+}
+input {
+	background: #fde;
+	border: 1px solid #725;
+	border-radius: 3px;
+	color: #725;
+	font-family: Tahoma, Arial, Helvetica, sans-serif;
+	font-size: 1.4em;
+	padding: 4px 12px;
+	width: 60%;;
+}
+.container {
+	background: #d7b;
+	border: 2px solid #725;
+	border-radius: 9px;
+	box-shadow: 0 8px 6px -6px #777;
+	margin: 0 auto;
+	text-align: center;
+	width: 500px;
+}
+.container h1 {
+	color: #725;
+	font-family: 'Fredoka One', sans-serif;
+	font-size: 1.4em;
+	letter-spacing: .15em;
+	margin: 24px 6px;
+	text-shadow: 0px 1px #fad;
+}
+.buttons {
+	margin: 24px 0;
+}
+.buttons a {
+	background: #e8e;
+	border: 1px solid #c39;
+	border-radius: 9px;
+	color: #a27;
+	padding: 4px 12px;
+	margin: 0 0 0 6px;
+	text-decoration: none;
+}
+.buttons a:hover {
+	background: #c39;
+	color: #fff;
+}
+.error {
+	background: #d7b;
+	border: 2px solid #725;
+	border-radius: 9px;
+	box-shadow: 0 8px 6px -6px #777;
+	margin: 24px auto;
+	padding: 24px;
+	text-align: center;
+	width: 452px;
+}

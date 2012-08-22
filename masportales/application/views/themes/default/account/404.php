@@ -1,0 +1,1 @@
+<p>No existe el fichero <span><?php echo _reg('section') . '_' . _reg('action'); ?></span> del módulo <span><?php echo $this->registry->request('module'); ?></span></p>

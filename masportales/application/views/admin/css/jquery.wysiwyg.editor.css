@@ -1,0 +1,14 @@
+body {
+	font: 300 .8em/1 Arial, 'Helvetica Neue', Helvetica, sans-serif;
+	color: #444;
+	padding: 0px 12px;
+}
+p {
+	line-height: 1.25em;
+	letter-spacing: .05em;
+	margin: 12px 0;
+	padding: 0;
+}
+b {
+	font-weight: bold;
+}
