@@ -1,0 +1,19 @@
+<?php $this->headTitle('Timeline'); ?>
+
+<div id="post-form">
+	<?php echo $this->post_form->setAction($this->url()); ?>
+</div>
+
+<div id="posts-container">
+	<?php foreach($this->posts as $post): ?>
+	<div id="post-<?php echo $post->id; ?>" class="post-container">
+		<div class="post"><?php echo $post->message; ?></div>
+		<div class="post-info clearfix">
+			<?php $fdate = new Zend_Date(strtotime($post->date_added)); ?>
+			<span class="post-date"><strong>published on</strong> <?php echo $fdate->toString("dd/MM/YYYY HH:mm:ss"); ?></span>
+			<span class="post-author"><strong>by</strong> <?php echo $post->name . ' ' . $post->surname; ?></span>
+			<span class="post-comments pull-right"><a href="<?php echo $this->url(array('controller' => 'index', 'action' => 'comment', 'id' => $post->id)); ?>" class="btn btn-mini"><i class="icon-comment"></i> comments (<?php echo $post->comments_count; ?>)</a></span>
+		</div>
+	</div>
+	<?php endforeach; ?>
+</div>

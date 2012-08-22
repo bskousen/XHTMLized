@@ -1,0 +1,17 @@
+<?php $this->headTitle('Comments'); ?>
+<a href="<?php echo $this->url(array('controller' => 'index', 'action' => 'index')); ?>" class="btn"><i class="icon-arrow-left"></i> Timeline</a>
+<div id="posts-container">
+	<?php foreach($this->comments as $comment): ?>
+	<div id="post-<?php echo $comment->id; ?>" class="post-container">
+		<div class="post"><?php echo $comment->message; ?></div>
+		<div class="post-info">
+			<?php $fdate = new Zend_Date(strtotime($comment->date_added)); ?>
+			<span class="post-date"><strong>published on</strong> <?php echo $fdate->toString("dd/MM/YYYY HH:mm:ss"); ?></span>
+			<span class="post-author"><strong>by</strong> <?php echo $comment->name . ' ' . $comment->surname; ?></span>
+		</div>
+	</div>
+	<?php endforeach; ?>
+</div>
+<div id="comment-form">
+	<?php echo $this->comment_form->setAction($this->url()); ?>
+</div>

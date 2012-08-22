@@ -1,0 +1,12 @@
+.post-container {
+	background-color: #eee;
+    border-radius: 6px 6px 6px 6px;
+    margin: 18px 0;
+    padding: 18px;
+}
+.post-info {
+	background: #fff;
+	border-radius: 3px;
+	margin: 12px 0 0 0;
+	padding: 6px;
+}

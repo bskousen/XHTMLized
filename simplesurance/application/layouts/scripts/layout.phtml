@@ -1,0 +1,27 @@
+<?php
+$this->headMeta()->appendHttpEquiv('Content-Type', 'text/html;charset=utf-8');
+$this->headTitle()->setSeparator(' - ');
+$this->headTitle('Simplesurance Homework');
+$this->headLink()->prependStylesheet($this->baseUrl().'/css/styles.css');
+$this->headLink()->prependStylesheet($this->baseUrl().'/css/bootstrap.css');
+echo $this->doctype(); ?>
+<html lang="en">
+<head>
+    <?php echo $this->headMeta(); ?>
+    <?php echo $this->headTitle(); ?>
+    <?php echo $this->headLink(); ?>
+</head>
+<body>
+<div class="navbar navbar-fixed-top">
+	<div class="navbar-inner clearfix">
+		<div class="container">
+			<h1 class="brand">Simplesurance Homework <?php echo $this->escape($this->title); ?></h1>
+			<div id="logged-in-as" class="pull-right"><?php echo $this->loggedInAs(); ?></div>
+		</div>
+	</div>
+</div>
+<div id="content" class="container">
+    <?php echo $this->layout()->content; ?>
+</div>
+</body>
+</html>
