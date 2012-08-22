@@ -1,0 +1,13 @@
+#fullscreenphoto h3 {
+	background: #ccc;
+	position: absolute;
+	
+}
+
+#closephoto {
+	float: right;
+	background: #ccc;
+}
+
+#fullscreenphoto img {
+}
